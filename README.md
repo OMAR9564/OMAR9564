@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on: An Intrusion Detection and Prevention System (IDPS) project using PySpark, Kafka, Wireshark, and AI models.<br>👯 I’m looking to collaborate on: Data science projects, especially those involving anomaly detection or real-time data processing.<br>🤝 I’m looking for help with: Optimizing real-time data processing for large datasets, and improving my Node.js Discord bot for better performance.<br>🌱 I’m currently learning: Advanced techniques in machine learning, Node.js development, and improving my English for job interviews.<br>💬 Ask me about: Intrusion Detection Systems, Python, Node.js, data processing with PySpark, and working with Kafka for real-time analytics.<br>⚡ Fun fact: I love watching gripping, comedic movies when I take a break from coding!
+🔭 I’ve successfully completed: An Intrusion Detection and Prevention System (IDPS) project using PySpark, Kafka, Wireshark, and AI models.<br>
+👯 I’m looking to collaborate on: AI-driven data science projects, especially those involving anomaly detection or real-time data processing.<br>
+🌱 I’m currently learning: Advanced techniques in machine learning and improving my English for job interviews.<br>
+💬 Ask me about: Intrusion Detection Systems, Python, data processing with PySpark, real-time analytics with Kafka, and AI applications.<br>
+⚡ Fun fact: When I take a break from coding, I enjoy watching sci-fi films or mind-bending documentaries to fuel creative thinking!
 
 
 ## 🌐 Socials:
